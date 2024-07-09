@@ -2,7 +2,7 @@
 
 <img align="right" alt="Image" src="https://images.playground.com/d032e36b1bd847da842ba8904283dc22.jpeg" width="300" height="400" />
 
-My name is Youssef Mohamed Hagag and I'm a 3rd-year Computer Engineering student   
+My name is Youssef Mohamed Hagag and I'm a 4th-year Computer Engineering student   
 at Faculty of Engineering, Cairo University.
 
 I have a keen interest in software development. My current goal is to improve my skills  
